@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "2a04d6fe1fcd3bf86925ffc6",
+  "owner": "jmsumq",
+  "repo": "page-016bf59b682381ec3fcc0d4f",
+  "title": "云上网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "016bf59b682381ec3fcc0d4f",
+      "a": "云上网络",
+      "b": "",
+      "entity": "云上网络",
+      "brand": "云上网络",
+      "separator": "",
+      "path": "index.html",
+      "hash": "0ab8387cb4d3acdbd709830a2371564f7a9467a25464a1e620695c8d7e98c577",
+      "content": {
+        "keyword1": "云上网络",
+        "keyword2": "",
+        "primary_entity": "云上网络",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "云上网络。短句说明三档套餐：月费、年费、流量与设备数。客户端地址未公布。未给出的事项不补充。",
+          "AI_DESCRIPTION": "云上网络。短句说明三档套餐：月费、年费、流量与设备数。客户端地址未公布。未给出的事项不补充。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*, *::before, *::after {box-sizing: border-box}\nhtml {}\nbody {margin: 0;background: #e6ebed;color: #243033;font-family: \"Palatino Linotype\", Palatino, \"Songti SC\", \"Noto Serif SC\", serif;line-height: 1.55}\na {color: #0d7380}\na:focus-visible {outline: 2px solid #128f9a;outline-offset: 3px}\n.hero {background: #3c474f;color: #f4f7f8;padding: 28px 22px 32px}\n.hero-grid {max-width: 1080px;margin: 0 auto;display: grid;grid-template-columns: 1.15fr 0.85fr 0.95fr;grid-template-areas:\n    \"kicker index quote\"\n    \"title title quote\"\n    \"colA colB quote\"\n    \"nav nav nav\";gap: 18px 22px;align-items: start}\n.kicker {grid-area: kicker}\n.index {grid-area: index}\n.quote {grid-area: quote}\n.title {grid-area: title}\n.colA {grid-area: colA}\n.colB {grid-area: colB}\n.anchors {grid-area: nav}\n.kicker p, .index p, .colA p, .colB p {margin: 0}\n.eyebrow {margin: 0 0 8px;color: #9fe3dc;font-size: 0.82rem;letter-spacing: 0.14em}\nh1 {margin: 0;text-align: left;font-size: clamp(3.1rem, 9vw, 6.8rem);line-height: 0.9;letter-spacing: -0.03em;font-weight: 700}\n.quote {margin: 0;background: #d7f6f2;color: #1b3338;border-radius: 28px;box-shadow: 0 18px 40px rgba(16, 28, 32, 0.22);padding: 26px 24px 22px}\n.quote::before {content: \"“\";display: block;font-size: 4.2rem;line-height: 0.7;color: #128f9a}\n.quote p {margin: 10px 0 0;font-size: 1.35rem;line-height: 1.35}\n.quote cite {display: block;margin-top: 16px;font-style: normal;font-size: 0.92rem;color: #3d5558}\n.colA, .colB {font-size: 1.02rem;color: #e7eeef}\n.anchors {padding-top: 6px}\n.anchors a {display: inline-block;margin: 0 8px 8px 0;padding: 7px 14px;border-radius: 999px;background: #14919a;color: #f4fffe;text-decoration: none;font-size: 0.95rem}\n.wrap {max-width: 1080px;margin: 0 auto;padding: 36px 20px 72px}\nsection {margin: 0 0 42px}\nh2 {margin: 0 0 14px;font-size: 1.7rem;letter-spacing: -0.02em;text-align: left}\nh3 {margin: 0;font-size: 1.15rem}\n.sheet, .client-card {background: #f7fbfb;border-radius: 28px;box-shadow: 0 16px 36px rgba(36, 52, 58, 0.1);padding: 22px 22px 8px}\n.steps, .faq {margin: 0;padding: 0 0 8px 1.2rem}\n.steps li, .faq li {margin: 0 0 16px;padding-left: 6px}\n.steps p, .faq p {margin: 6px 0 0}\n.plans {list-style: none;margin: 0;padding: 0}\n.plan {background: #f8fbfb;border-radius: 28px;box-shadow: 0 16px 34px rgba(36, 52, 58, 0.1);padding: 20px 22px 12px;margin: 0 0 16px}\n.plan-head {display: grid;grid-template-columns: auto 1fr auto;gap: 4px 16px;align-items: baseline}\n.num {color: #128f9a;font-size: 1.4rem;font-weight: 700}\n.fee {margin: 0;font-size: 1.35rem}\n.year {margin: 0;grid-column: 2 / 3;color: #3e5558}\n.mark {margin: 8px 0 0;grid-column: 2 / 3;color: #0d7380;font-size: 0.92rem}\n.perks {list-style: none;margin: 12px 0 0;padding: 0}\n.perks li {padding: 8px 0;border-top: 1px solid #d5dee1}\n.client-card p {margin: 0 0 12px}\n.note {margin: 8px 0 0;color: #3c5156}\n.end {margin: 0;padding-top: 8px;color: #3c5156}\n@media (max-width: 800px) {\n  .hero {padding: 22px 16px 26px}\n  .hero-grid {grid-template-columns: 1fr;grid-template-areas:\n      \"kicker\"\n      \"title\"\n      \"quote\"\n      \"colA\"\n      \"colB\"\n      \"index\"\n      \"nav\"}\n  .plan-head {grid-template-columns: auto 1fr}\n  .fee {grid-column: 2}\n  .wrap {padding: 28px 16px 56px}\n}\n</style><main>\n<header class=\"hero\">\n<div class=\"hero-grid\">\n<div class=\"kicker\">\n<p class=\"eyebrow\">说明页</p>\n<p>只列已给出的数字。不另加头衔。</p>\n</div>\n<div class=\"index\">\n<p class=\"eyebrow\">栏目指引</p>\n<p>套餐。读法。客户端。问答。</p>\n</div>\n<blockquote class=\"quote\">\n<p>流量、设备、年费。先对齐这三行。</p>\n编辑按语。不是用户评价。\n</blockquote>\n<div class=\"title\">\n<h1>云上网络</h1>\n</div>\n<div class=\"colA\">\n<p>这是一份套餐说明。句子短。价格直接落在行上。</p>\n</div>\n<div class=\"colB\">\n<p>三档名字不同。权益跟在各自行下。没写的，不补。</p>\n</div>\n<nav class=\"anchors\" aria-label=\"页内跳转\">\n<a href=\"#guide\">用法</a>\n<a href=\"#plans\">套餐</a>\n<a href=\"#clients\">客户端</a>\n<a href=\"#faq\">问答</a>\n</nav>\n</div>\n</header>\n<div class=\"wrap\">\n<section id=\"guide\">\n<h2>使用说明</h2>\n<article class=\"sheet\">\n<ol class=\"steps\">\n<li>\n<h3>先对名称</h3>\n<p>基础版、旗舰版、团队版。三个名字，各占一行。</p>\n</li>\n<li>\n<h3>再对价格</h3>\n<p>月费一行。年费一行。不要自行换算。</p>\n</li>\n<li>\n<h3>接着看额度</h3>\n<p>流量和同时在线设备数，写在每档权益里。</p>\n</li>\n<li>\n<h3>留意标记</h3>\n<p>旗舰版带参考推荐标记。只表示来源如此。</p>\n</li>\n<li>\n<h3>停在已写内容</h3>\n<p>来源没写的规则，本页不脑补。</p>\n</li>\n</ol>\n</article>\n</section>\n<section id=\"plans\">\n<h2>套餐</h2>\n<p class=\"note\">纵向逐行展开。交易链接未提供，不设购买入口。</p>\n<ol class=\"plans\">\n<li class=\"plan\">\n<div class=\"plan-head\">\n<span class=\"num\">01</span>\n<h3>基础版</h3>\n<p class=\"fee\">¥15/月</p>\n<p class=\"year\">按年付仅需 ¥150/年</p>\n</div>\n<ul class=\"perks\">\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n</li>\n<li class=\"plan\">\n<div class=\"plan-head\">\n<span class=\"num\">02</span>\n<h3>旗舰版</h3>\n<p class=\"fee\">¥35/月</p>\n<p class=\"year\">按年付仅需 ¥350/年</p>\n<p class=\"mark\">参考信息中的推荐档</p>\n</div>\n<ul class=\"perks\">\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7x24 优先工单支持</li>\n</ul>\n</li>\n<li class=\"plan\">\n<div class=\"plan-head\">\n<span class=\"num\">03</span>\n<h3>团队版</h3>\n<p class=\"fee\">¥85/月</p>\n<p class=\"year\">按年付仅需 ¥850/年</p>\n</div>\n<ul class=\"perks\">\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n</li>\n</ol>\n</section>\n<section id=\"clients\">\n<h2>客户端</h2>\n<article class=\"client-card\">\n<h3>下载地址</h3>\n<p>参考客户端列表是空的。</p>\n<p>因此不写系统名称，也不写版本号。</p>\n<p>没有可靠下载地址。下面的链接只回到本页说明，不指向安装包。</p>\n<p><a href=\"#clients\">留在客户端说明</a></p>\n</article>\n</section>\n<section id=\"faq\">\n<h2>常见问题</h2>\n<ol class=\"faq\">\n<li>\n<h3>月费和年费是什么关系？</h3>\n<p>年费是单独给出的金额。基础版 ¥150/年。旗舰版 ¥350/年。团队版 ¥850/年。页面不另写折扣算法。</p>\n</li>\n<li>\n<h3>旗舰版为什么被标出？</h3>\n<p>参考套餐里这一档带推荐标记。页面照实标出。不是额外评测。</p>\n</li>\n<li>\n<h3>三档流量分别是多少？</h3>\n<p>基础版每月 100GB。旗舰版每月 300GB。团队版每月 1000GB。用完后怎么处理，来源里没有。</p>\n</li>\n<li>\n<h3>同时在线设备数是多少？</h3>\n<p>基础版 3 台。旗舰版 5 台。团队版 20 台。超出以后的规则，没有说明。</p>\n</li>\n<li>\n<h3>客户端在哪里？</h3>\n<p>没有可靠下载地址。本页不放安装包，也不编平台列表。</p>\n</li>\n<li>\n<h3>日志或退款怎么查？</h3>\n<p>这两项都没有事实来源。页面不回答具体规则。流媒体和线路差异，只以套餐行内文字为准。</p>\n</li>\n</ol>\n</section>\n<p class=\"end\">页面到此。价格与权益来自给出的参考套餐。其余不写。</p>\n</div>\n</main>",
+          "hash": "732d1b24ec22d2ac84b8f22d39928497dd6d75f7d80969a8e73f2013bc1743dc",
+          "seo": {
+            "title": "云上网络｜套餐列表与阅读说明",
+            "keywords": "云上网络,基础版,旗舰版,团队版,套餐说明,年付",
+            "description": "云上网络。短句说明三档套餐：月费、年费、流量与设备数。客户端地址未公布。未给出的事项不补充。"
+          },
+          "provider": "grok",
+          "model": "grok-4.6",
+          "design": {
+            "no": "4106",
+            "hero": "3 杂志式多栏网格配引言",
+            "palette": "7 石板灰配青色",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "2 纵向列表逐行展开",
+            "faq_view": "2 编号列表",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fyztoua.cn",
+    "host": "p-701750b110.fyztoua.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "78d5e0fed3bfda3ea3aa3d5106f4b071cb3ccecdfae10f8ac11d502d5b629ba6",
+    "sitemap.xml": "277806678f2ccfd18780a4983bf2f88401e534f075c1660194669b55f9230304",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e6b5b68b537547a9c6e4776fbd2b2edca1b1a7b0096426ef00c705b5a970ef98",
+    "robots.txt": "5fbb7a008928aed216cc9a076fca324d79e24b7b6a436a4e57a9acd63ca709b6",
+    "2308f26e8f5c22b5ecc573b46d80e225.txt": "2842b159638c83608be82157d6953e3fe2ec3f54ec015851c886ab5cfe2814e6"
+  },
+  "revision": "d88e769a144f38cc11202bc6bb5488052de3caeb2f8c44bea39fbcf977c8a85f"
+}
